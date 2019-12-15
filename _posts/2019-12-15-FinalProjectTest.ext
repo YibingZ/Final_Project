@@ -13,14 +13,11 @@ toc_sticky: true
 ---
 
 This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
-
-
-## Pedestriand and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
-
+## Pedestrian and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
 <div id="folium-chart-1"></div>
 
 
-## Pedestriand and Cyclist Injuries Caused by Vehicle Crashes in 2018 in Manhattan
+## Pedestrian and Cyclist Injuries Caused by Vehicle Crashes in 2018 in Manhattan
 
 
 <div id="folium-chart-2"></div>
