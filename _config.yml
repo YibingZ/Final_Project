@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 620: Data Wrangling and Data Visualization"
+title: "Final Project for MUSA 620: Data Wrangling and Data Visualization"
 title_separator: "-"
 name: "Jeong Hoon Kim & Yibing Zheng"
 description: "Displaying data visualization of Crash Analysis"
@@ -105,15 +105,15 @@ analytics:
 
 # Site Author
 author:
-  name: "Yibing Zheng"
+  name: "Jeong Hoon Kim & Yibing Zheng"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Master of City Planning Candidate, 2020 Penn"
+  bio: "Master of City Planning Candidates, 2020 Penn"
   location: "Philadelphia"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:yibingz@upenn.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
