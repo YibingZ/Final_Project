@@ -5,8 +5,21 @@ published: true
 tags: [dataviz, folium]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
 folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"]
-  folium-chart-2: ["charts/percent_no_internet.html", "400"]
+  folium-chart-1: ["charts/Fatality2018.html", "400"]
+  folium-chart-2: ["charts/Injury2018.html", "400"]
+  folium-chart-3: ["charts/Hour2018.html", "400"]
 toc: true
 toc_sticky: true
 ---
+
+This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
+
+## Pedestriand and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
+
+<div id="folium-chart-1"></div>
+
+## Pedestriand and Cyclist Injuries Caused by Vehicle Crashes in 2018 in Manhattan
+
+<div id="folium-chart-2"></div>
+
+## Vehicle Crashes by Hours in 2018 in Manhattan
