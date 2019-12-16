@@ -1,9 +1,9 @@
 ---
-title: "Final Project: Evaluation of Vehicle Crashes and Related Factors"
+title: "Final Project: Evaluation of Vehicle Crashes"
 date: 2019-12-15
 published: true
 tags: [dataviz, folium]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+excerpt: "This is some key data visualization in the final project."
 folium-loader:
   folium-chart-1: ["charts/Fatality2018.html", "400"]
   folium-chart-2: ["charts/Injury2018.html", "400"]
@@ -14,8 +14,7 @@ toc_sticky: true
 
 This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
 
-## Header 2 (H1 is reserved for post titles)##
-## Pedestrian and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan##
+## Pedestrian and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
 <div id="folium-chart-1"></div>
 
 
