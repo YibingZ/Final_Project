@@ -31,7 +31,7 @@ pedestrians and cyclists, and the number of injured pedestrians and cyclists.
 <div id="folium-chart-1"></div>
 
 
-##Pedestrian and Cyclist Injuries Caused by Vehicle Crashes in 2018 in Manhattan
+## Pedestrian and Cyclist Injuries Caused by Vehicle Crashes in 2018 in Manhattan
 
 
 
@@ -39,7 +39,7 @@ The second map show the injuries happened in Manhattan in 2018. Among many injur
 
 <div id="folium-chart-2"></div>
 
-##Vehicle Crashes by Hours in 2018 in Manhattan
+## Vehicle Crashes by Hours in 2018 in Manhattan
 
 Hitting 'play' on the button, the change of the heatmap in New York reveals the daily traffic trend. Althought night time is more unsafe in
 terms of the transportation environment due to the lack of light, more crashes happened in day time.
