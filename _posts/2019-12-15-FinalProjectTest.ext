@@ -25,12 +25,17 @@ collisions will be helpful for future adjustments in transportation safety plann
 ## Pedestrian and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
 
 
-The first map shows the fatalities happened in Manhattan in 2018. There are only 13 fatalities in total. But their locations
+The first map shows the fatalities happened in Manhattan in 2018. There are only 13 fatalities in total. But their locations are relatively
+clustered around Central Park and Two Bridges. By clicking on the points on the map, it ables the pop-out window showing the number of killed
+pedestrians and cyclists, and the number of injured pedestrians and cyclists.
 <div id="folium-chart-1"></div>
 
 
 ##Pedestrian and Cyclist Injuries Caused by Vehicle Crashes in 2018 in Manhattan
 
+
+
+The second map show the injuries happened in Manhattan in 2018. 
 
 <div id="folium-chart-2"></div>
 
