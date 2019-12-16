@@ -5,9 +5,9 @@ published: true
 tags: [dataviz, folium]
 excerpt: "This is some key data visualization in the final project."
 folium-loader:
-  folium-chart-1: ["charts/Fatality2018.html", "400"]
-  folium-chart-2: ["charts/Injury2018.html", "400"]
-  folium-chart-3: ["charts/Hour2018.html", "400"]
+  folium-chart-1: ["charts/Fatality2018.html", "500"]
+  folium-chart-2: ["charts/Injury2018.html", "500"]
+  folium-chart-3: ["charts/Hour2018.html", "500"]
 custom-css-list:
   - "assets/css/leaflet.timedimension.control.min.css"
 toc: true
@@ -18,9 +18,13 @@ This post contains some key data visualization from the final project in course 
 data is collected from NYPD. The data is trimmed to 2018 within Manhattan area. 
 
 As safety issues becomes a concern for most vulnerable groups, pedestrians and cyclists, some analysis related to the patterns of vehicle
-collisions
+collisions will be helpful for future adjustments in transportation safety planning.
 
-##Pedestrian and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
+
+## Pedestrian and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
+
+
+The first map shows the fatalities happened in Manhattan in 2018. There are only 13 fatalities in total. But their locations
 <div id="folium-chart-1"></div>
 
 
