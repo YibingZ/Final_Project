@@ -20,18 +20,6 @@ data is collected from NYPD. The data is trimmed to 2018 within Manhattan area.
 As safety issues becomes a concern for most vulnerable groups, pedestrians and cyclists, some analysis related to the patterns of vehicle
 collisions will be helpful for future adjustments in transportation safety planning.
 
-##Vehicle Crashes and Season
-According to the chart below, most of the crashes happened in fall in Manhattan while the least of them happened in winter.
-
-![Chart_Season2018]({{ site.url }}{{ site.baseurl }}/assets/images/Chart_Season2018.png)
-
-
-##Vehicle Crashes and Hour
-According to the chart, the number of crashes went up with the AM peak hour and reached to the top around 2PM and it gradually went down
-with the PM peak hour and reached the bottom at around 4AM.
-
-![Chart_Hour2018]({{ site.url }}{{ site.baseurl }}/assets/images/Chart_Hour2018.png)
-
 
 
 ## Pedestrian and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
@@ -47,10 +35,13 @@ pedestrians and cyclists, and the number of injured pedestrians and cyclists.
 
 
 
-The second map show the injuries happened in Manhattan in 2018. 
+The second map show the injuries happened in Manhattan in 2018. Among many injuries happened in New York, most of them only had one injuries.
 
 <div id="folium-chart-2"></div>
 
 ##Vehicle Crashes by Hours in 2018 in Manhattan
+
+Hitting 'play' on the button, the change of the heatmap in New York reveals the daily traffic trend. Althought night time is more unsafe in
+terms of the transportation environment due to the lack of light, more crashes happened in day time.
 
 <div id="folium-chart-3"></div>
