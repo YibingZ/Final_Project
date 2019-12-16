@@ -21,9 +21,18 @@ As safety issues becomes a concern for most vulnerable groups, pedestrians and c
 collisions will be helpful for future adjustments in transportation safety planning.
 
 ##Vehicle Crashes and Season
+According to the chart below, most of the crashes happened in fall in Manhattan while the least of them happened in winter.
+
+![Chart_Season2018]({{ site.url }}{{ site.baseurl }}/assets/images/Chart_Season2018.png)
 
 
-![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/Chart_Season2018.png)
+##Vehicle Crashes and Hour
+According to the chart, the number of crashes went up with the AM peak hour and reached to the top around 2PM and it gradually went down
+with the PM peak hour and reached the bottom at around 4AM.
+
+![Chart_Hour2018]({{ site.url }}{{ site.baseurl }}/assets/images/Chart_Hour2018.png)
+
+
 
 ## Pedestrian and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
 
