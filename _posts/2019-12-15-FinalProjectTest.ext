@@ -8,11 +8,17 @@ folium-loader:
   folium-chart-1: ["charts/Fatality2018.html", "400"]
   folium-chart-2: ["charts/Injury2018.html", "400"]
   folium-chart-3: ["charts/Hour2018.html", "400"]
+custom-css-list:
+  - "assets/css/leaflet.timedimension.control.min.css"
 toc: true
 toc_sticky: true
 ---
 
-This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
+This post contains some key data visualization from the final project in course Data Wrangling and Data Visualization. In this project, 
+data is collected from NYPD. The data is trimmed to 2018 within Manhattan area. 
+
+As safety issues becomes a concern for most vulnerable groups, pedestrians and cyclists, some analysis related to the patterns of vehicle
+collisions
 
 ##Pedestrian and Cyclist Fatalities Caused by Vehicle Crashes in 2018 in Manhattan
 <div id="folium-chart-1"></div>
